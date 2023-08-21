@@ -1,6 +1,6 @@
 # Hey, I'm Dhruval 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@DhruvalGupta4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhruvalGupta4)](https://twitter.com/DhruvalGupta4)  [![Linkedin Badge](https://img.shields.io/badge/-@DhruvalGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvalgupta/)](https://www.linkedin.com/in/dhruval-gupta-98889a159/)
+[![Twitter Badge](https://img.shields.io/badge/-@DhruvalGupta4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhruvalGupta4)](https://twitter.com/DhruvalGupta4)  [![Linkedin Badge](https://img.shields.io/badge/-@DhruvalGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvalgupta/)](https://www.linkedin.com/in/dhruvalgupta/)
 
 ## I'm a  Machine Learning &  Artificial Intelligence Enthusiast! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer : "A detective in crime murder movie who is also the murderer"
