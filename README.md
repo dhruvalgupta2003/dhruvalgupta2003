@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@DhruvalGupta4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhruvalGupta4)](https://twitter.com/DhruvalGupta4)  [![Linkedin Badge](https://img.shields.io/badge/-@DhruvalGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvalgupta/)](https://www.linkedin.com/in/dhruvalgupta/)
 
-## I'm a  Machine Learning &  Artificial Intelligence Enthusiast! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a  Machine Learning &  Artificial Intelligence Enthusiast!<a href="https://app.daily.dev/dhruvalgupta"><img src="https://api.daily.dev/devcards/834aaf8dbac34454817d62381150919d.png?r=gyu" width="400" alt="Dhruval Gupta's Dev Card"/></a>
 - 👨🏻‍💻 Developer : "A detective in crime murder movie who is also the murderer"
 - 🔭 I’m currently working on a  Action-Perception-Learning Model🤖!
 - 🌱 I’m currently learning everything 🤣
